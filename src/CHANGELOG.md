@@ -1,5 +1,19 @@
 # vocs
 
+## 1.0.17
+
+### Patch Changes
+
+- [`b8db2df`](https://github.com/wevm/vocs/commit/b8db2df5ce6d9db869daa73ae3905a626317aea9) Thanks [@jxom](https://github.com/jxom)! - Fixed sidebar auto-scroll.
+
+- [`e61cf34`](https://github.com/wevm/vocs/commit/e61cf34047c848206d44ab9ff92dd89e3341b1f0) Thanks [@jxom](https://github.com/jxom)! - Fixed AI CTA not rendering when no sub-levels.
+
+- [`6525608`](https://github.com/wevm/vocs/commit/6525608552b5015af7739eb5042b3f2cb58d25cf) Thanks [@jxom](https://github.com/jxom)! - Added `searchable` frontmatter option.
+
+- [`8394be3`](https://github.com/wevm/vocs/commit/8394be3102e489f2e98d696769a923d3eabfb1c1) Thanks [@jxom](https://github.com/jxom)! - Supported function `editLink.pattern`
+
+- [#330](https://github.com/wevm/vocs/pull/330) [`d4719ec`](https://github.com/wevm/vocs/commit/d4719ec02f973d69aa99368013b66a59db8ba542) Thanks [@jxom](https://github.com/jxom)! - Updated dependencies.
+
 ## 1.0.16
 
 ### Patch Changes
